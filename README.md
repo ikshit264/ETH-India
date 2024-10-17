@@ -17,7 +17,7 @@ Here is the plan for the next 15 days to cover the key technologies and concepts
 
 | **Day** | **Topic** | **Goal** | **Resources / Links** | **Status** |
 |---------|------------|----------|-----------------------|------------|
-| Day 1-2 | Ethereum Basics | Learn Solidity & Ethereum fundamentals | [Crypto Zombies](https://cryptozombies.io/), [Alchemy Intro to Ethereum](https://www.alchemy.com/ethereum) | Not Started |
+| Day 1-2 | Ethereum Basics | Learn Solidity & Ethereum fundamentals | [Crypto Zombies](https://cryptozombies.io/), [Alchemy Intro to Ethereum](https://www.alchemy.com/ethereum) | Done |
 | Day 3-4 | Decentralized Applications (dApps) | Build a simple decentralized app (dApp) | [Scaffold-Eth GitHub](https://github.com/scaffold-eth/scaffold-eth), [Alchemy dApp Tutorial](https://www.alchemy.com/dapps) | Not Started |
 | Day 5 | IPFS / Pinata | Upload files to IPFS using Pinata | [Pinata Docs](https://blog.pinata.cloud/getting-started-with-pinata) | Not Started |
 | Day 6 | Chainlink Oracles | Build a contract that interacts with Chainlink Oracles | [Chainlink Docs](https://docs.chain.link/) | Not Started |
